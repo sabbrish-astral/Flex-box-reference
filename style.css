@@ -23,13 +23,14 @@ p{
 	background-color:black;
 	min-height:400px;
 	display:flex;
+	flex-direction:column;
 	justify-content:space-around;
 	align-items:center;
 	flex-wrap:wrap;
 }
 .a{
-	width:250px;
-	height:250px;
+	width:200px;
+	height:200px;
 	background-color:greenyellow;
 	border:2px white solid;
 	flex-shrink:0;
