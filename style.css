@@ -23,9 +23,8 @@ p{
 	background-color:black;
 	min-height:400px;
 	display:flex;
-	flex-direction:column;
-	justify-content:center;
-	align-items:space-around;
+	justify-content:space-around;
+	align-items:center;
 	flex-wrap:wrap;
 }
 .a{
