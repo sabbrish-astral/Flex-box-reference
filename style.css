@@ -1,0 +1,36 @@
+.container{
+	display:flex;
+}
+p{
+	padding:10px;
+}
+.one{
+	background-color:slategray;
+	flex:1;
+	order:1;
+}
+.two{
+	background-color:orangered;
+	flex:1;
+	order:3;
+}
+.three{
+	background-color:yellow;
+	flex:2;
+	order:2;
+}
+.outer-box{
+	background-color:black;
+	min-height:400px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	flex-wrap:wrap;
+}
+.a{
+	width:150px;
+	height:150px;
+	background-color:greenyellow;
+	border:2px white solid;
+	flex-shrink:0;
+}
