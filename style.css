@@ -24,7 +24,7 @@ p{
 	min-height:400px;
 	display:flex;
 	flex-direction:column;
-	justify-content:centre;
+	justify-content:center;
 	align-items:space-around;
 	flex-wrap:wrap;
 }
