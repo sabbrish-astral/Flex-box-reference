@@ -34,4 +34,5 @@ p{
 	background-color:greenyellow;
 	border:2px white solid;
 	flex-shrink:0;
+	padding:4px;
 }
