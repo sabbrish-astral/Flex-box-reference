@@ -24,8 +24,8 @@ p{
 	min-height:400px;
 	display:flex;
 	flex-direction:column;
-	justify-content:space-around;
-	align-items:center;
+	justify-content:centre;
+	align-items:space-around;
 	flex-wrap:wrap;
 }
 .a{
